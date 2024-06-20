@@ -9,7 +9,7 @@ This project is a graphical user interface (GUI) application for colorizing blac
 - Colorize uploaded images using a pre-trained deep learning model.
 - Save the colorized images.
 
-- 
+ 
 ![result](https://github.com/madhu1690/Image-Colorization/assets/135344672/6d32538d-36d2-44d9-aee6-8f16cfe3b4a9)
 
 
