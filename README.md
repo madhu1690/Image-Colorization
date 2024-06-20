@@ -1,4 +1,4 @@
-![result](https://github.com/madhu1690/Image-Colorization/assets/135344672/6d32538d-36d2-44d9-aee6-8f16cfe3b4a9)
+
 # B&W Image Colorization GUI
 
 This project is a graphical user interface (GUI) application for colorizing black and white images using deep learning. The application is built with Python, utilizing the Tkinter library for the GUI, and OpenCV for image processing and colorization.
@@ -8,7 +8,7 @@ This project is a graphical user interface (GUI) application for colorizing blac
 - Upload black and white images.
 - Colorize uploaded images using a pre-trained deep learning model.
 - Save the colorized images.
-
+![result](https://github.com/madhu1690/Image-Colorization/assets/135344672/6d32538d-36d2-44d9-aee6-8f16cfe3b4a9)
 ## Requirements
 
 - Python 3.x
