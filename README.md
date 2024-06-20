@@ -6,6 +6,10 @@ This project is a graphical user interface (GUI) application for colorizing blac
 ## Features
 
 - Upload black and white images.
+
+
+
+
 - Colorize uploaded images using a pre-trained deep learning model.
 - Save the colorized images.
 
@@ -20,7 +24,8 @@ This project is a graphical user interface (GUI) application for colorizing blac
 
 ## Requirements
 - Python 3.x
-- Tkinter
+- Tkinter![OIP](https://github.com/madhu1690/Image-Colorization/assets/135344672/c082042d-9ec6-4ccc-97ed-9c5c6a1c9d35)
+
 - OpenCV
 - NumPy
 - PIL (Pillow)
